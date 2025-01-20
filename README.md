@@ -3,6 +3,8 @@ Um pequeno menu em Bash Script para o gerenciamento básico e buscas nos pacotes
 
 ![Gif demo da versão *pre-release*](apt-menu-demo.gif)
 
+https://www.youtube.com/watch?v=E1r1QauwSVY
+
 ## Opções
 
 O `apt-menu` trabalha com as seguintes opções:
@@ -61,3 +63,4 @@ Alternativamente, você pode [baixar o repositório zipado](https://github.com/d
 ## Como contribuir
 
 O `apt-menu` é um script didático que objetiva exercitar a programação em Shell/Bash e os comandos do `apt`. Sendo assim, você pode colaborar com as suas opiniões, dúvidas e sugestões nas [**Issues** do projeto no GitHub](https://github.com/debxp/apt-menu/issues).
+
